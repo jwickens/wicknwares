@@ -1,0 +1,19 @@
+{
+  "name": "wicknwares",
+  "version": "0.0.1",
+  "author": "Jonathan Wickens <jonathan.wickens@gmail.com>",
+  "license": "None",
+  "scripts": {
+    "format": "yarn prettier --write \"**/*.tsx\"  \"**/*.ts\" \"**/*.js\"",
+    "deploy": "lerna run deploy"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.16.4",
+    "prettier": "^1.18.2",
+    "serverless": "^1.52.0"
+  }
+}
