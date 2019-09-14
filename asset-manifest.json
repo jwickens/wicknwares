@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/wicknwares/static/css/main.19393e92.chunk.css",
-    "main.js": "/wicknwares/static/js/main.f8716d45.chunk.js",
-    "main.js.map": "/wicknwares/static/js/main.f8716d45.chunk.js.map",
-    "runtime~main.js": "/wicknwares/static/js/runtime~main.3ffca955.js",
-    "runtime~main.js.map": "/wicknwares/static/js/runtime~main.3ffca955.js.map",
-    "static/js/2.8ce7f97d.chunk.js": "/wicknwares/static/js/2.8ce7f97d.chunk.js",
-    "static/js/2.8ce7f97d.chunk.js.map": "/wicknwares/static/js/2.8ce7f97d.chunk.js.map",
-    "index.html": "/wicknwares/index.html",
-    "precache-manifest.1e80a7a15baf6ade1471b6c4e6d1289a.js": "/wicknwares/precache-manifest.1e80a7a15baf6ade1471b6c4e6d1289a.js",
-    "service-worker.js": "/wicknwares/service-worker.js",
-    "static/css/main.19393e92.chunk.css.map": "/wicknwares/static/css/main.19393e92.chunk.css.map",
-    "static/media/logo.svg": "/wicknwares/static/media/logo.5d5d9eef.svg"
+    "main.css": "wares.wickenz.com/static/css/main.19393e92.chunk.css",
+    "main.js": "wares.wickenz.com/static/js/main.4192aa48.chunk.js",
+    "main.js.map": "wares.wickenz.com/static/js/main.4192aa48.chunk.js.map",
+    "runtime~main.js": "wares.wickenz.com/static/js/runtime~main.eba7a999.js",
+    "runtime~main.js.map": "wares.wickenz.com/static/js/runtime~main.eba7a999.js.map",
+    "static/js/2.8ce7f97d.chunk.js": "wares.wickenz.com/static/js/2.8ce7f97d.chunk.js",
+    "static/js/2.8ce7f97d.chunk.js.map": "wares.wickenz.com/static/js/2.8ce7f97d.chunk.js.map",
+    "index.html": "wares.wickenz.com/index.html",
+    "precache-manifest.37e1ba074cfebc0659a62d7acf3ff1ba.js": "wares.wickenz.com/precache-manifest.37e1ba074cfebc0659a62d7acf3ff1ba.js",
+    "service-worker.js": "wares.wickenz.com/service-worker.js",
+    "static/css/main.19393e92.chunk.css.map": "wares.wickenz.com/static/css/main.19393e92.chunk.css.map",
+    "static/media/logo.svg": "wares.wickenz.com/static/media/logo.5d5d9eef.svg"
   }
 }
